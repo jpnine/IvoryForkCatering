@@ -93,7 +93,7 @@
           "items": [
             {
               "name": "Caesar Salad",
-              "price": 4.0,
+              "price": 4,
               "ingredients": "Crisp romaine lettuce tossed with creamy Caesar dressing, parmesan cheese, and crunchy croutons."
             },
             {
@@ -118,7 +118,7 @@
             },
             {
               "name": "Cookie",
-              "price": 2.0,
+              "price": 2,
               "ingredients": ""
             },
             {
@@ -158,7 +158,7 @@
             },
             {
               "name": "Penne Alla Vodka",
-              "price": 4.0,
+              "price": 4,
               "ingredients": "Penne pasta tossed in a creamy tomato-vodka sauce with a touch of heat."
             },
             {
@@ -168,7 +168,7 @@
             },
             {
               "name": "Fettucine Alfredo",
-              "price": 6.0,
+              "price": 6,
               "ingredients": "Fettuccine noodles coated in a rich, buttery parmesan cream sauce."
             },
             {
@@ -178,17 +178,17 @@
             },
             {
               "name": "Spaghetti and Meatballs",
-              "price": 6.0,
+              "price": 6,
               "ingredients": "Classic spaghetti topped with savory house-made meatballs and marinara sauce."
             },
             {
               "name": "Pork Marsala",
-              "price": 5.0,
+              "price": 5,
               "ingredients": "Tender pork medallions simmered in a rich Marsala wine and mushroom sauce."
             },
             {
               "name": "Pasta Primavera",
-              "price": 7.0,
+              "price": 7,
               "ingredients": "Colorful seasonal vegetables sautéed and tossed with pasta in a light garlic and olive oil sauce."
             }
           ]
@@ -203,12 +203,12 @@
             },
             {
               "name": "Cheesy Breadsticks",
-              "price": 3.0,
+              "price": 3,
               "ingredients": ""
             },
             {
               "name": "Bruschetta",
-              "price": 5.0,
+              "price": 5,
               "ingredients": ""
             }
           ]
@@ -238,12 +238,12 @@
           "items": [
             {
               "name": "Tiramisu",
-              "price": 5.0,
+              "price": 5,
               "ingredients": ""
             },
             {
               "name": "Cannolis",
-              "price": 5.0,
+              "price": 5,
               "ingredients": ""
             },
             {
@@ -273,22 +273,22 @@
             },
             {
               "name": "Birria",
-              "price": 12.0,
+              "price": 12,
               "ingredients": "Tender, slow-cooked beef in a rich, spiced consommé, perfect for tacos or dipping."
             },
             {
               "name": "Carnitas",
-              "price": 10.0,
+              "price": 10,
               "ingredients": "Slow-braised pork, crisped to perfection and seasoned with traditional Mexican spices."
             },
             {
               "name": "Chicken Tinga",
-              "price": 9.0,
+              "price": 9,
               "ingredients": "Shredded chicken simmered in a smoky chipotle-tomato sauce with onions."
             },
             {
               "name": "Pollo Asado",
-              "price": 10.0,
+              "price": 10,
               "ingredients": "Grilled, citrus-marinated chicken bursting with bold, smoky flavor."
             }
           ]
@@ -298,17 +298,17 @@
           "items": [
             {
               "name": "Arroz Rojo",
-              "price": 3.0,
+              "price": 3,
               "ingredients": ""
             },
             {
               "name": "Frijoles Negros",
-              "price": 3.0,
+              "price": 3,
               "ingredients": "Slow-simmered black beans seasoned with garlic, onion, and Latin spices."
             },
             {
               "name": "Arroz Congri",
-              "price": 4.0,
+              "price": 4,
               "ingredients": ""
             },
             {
@@ -318,7 +318,7 @@
             },
             {
               "name": "Yellow Rice with Peppers",
-              "price": 5.0,
+              "price": 5,
               "ingredients": ""
             },
             {
@@ -328,12 +328,12 @@
             },
             {
               "name": "Yuca Con Mojo",
-              "price": 6.0,
+              "price": 6,
               "ingredients": "Boiled cassava root drizzled with a garlicky citrus mojo sauce."
             },
             {
               "name": "Tostones",
-              "price": 4.0,
+              "price": 4,
               "ingredients": "Twice-fried green plantains, crispy on the outside and soft inside, served with garlic dipping sauce."
             }
           ]
@@ -348,7 +348,7 @@
             },
             {
               "name": "Garden Salad",
-              "price": 5.0,
+              "price": 5,
               "ingredients": "A fresh mix of lettuce, tomatoes, cucumbers, and carrots, served with your choice of dressing."
             }
           ]
@@ -358,22 +358,22 @@
           "items": [
             {
               "name": "Arroz Con Leche",
-              "price": 4.0,
+              "price": 4,
               "ingredients": ""
             },
             {
               "name": "Churros",
-              "price": 3.0,
+              "price": 3,
               "ingredients": ""
             },
             {
               "name": "Pineapple Upside Down Cake",
-              "price": 5.0,
+              "price": 5,
               "ingredients": ""
             },
             {
               "name": "Tres Leches",
-              "price": 6.0,
+              "price": 6,
               "ingredients": ""
             }
           ]
@@ -388,27 +388,27 @@
           "items": [
             {
               "name": "Grilled Portobello Steak",
-              "price": 8.0,
+              "price": 8,
               "ingredients": "Meaty portobello mushrooms marinated and grilled to perfection, served as a hearty plant-based main."
             },
             {
               "name": "Buffalo Cauliflower",
-              "price": 5.0,
+              "price": 5,
               "ingredients": "Crispy cauliflower florets tossed in spicy buffalo sauce, served with cooling ranch or blue cheese dip."
             },
             {
               "name": "Polenta",
-              "price": 4.0,
+              "price": 4,
               "ingredients": "Polenta."
             },
             {
               "name": "Stuffed Bell Peppers",
-              "price": 12.0,
+              "price": 12,
               "ingredients": "Colorful bell peppers filled with a savory blend of rice, vegetables, and herbs, baked until tender."
             },
             {
               "name": "Quinoa and Veggie Paella",
-              "price": 12.0,
+              "price": 12,
               "ingredients": "A colorful medley of vegetables and quinoa simmered with saffron and spices for a vibrant, meatless twist."
             }
           ]
@@ -443,22 +443,22 @@
             },
             {
               "name": "Grilled Asparagus",
-              "price": 4.0,
+              "price": 4,
               "ingredients": "Tender asparagus spears grilled and lightly seasoned with sea salt and lemon."
             },
             {
               "name": "Zucchini Noodles with Pesto",
-              "price": 4.0,
+              "price": 4,
               "ingredients": "Fresh spiralized zucchini noodles tossed in a vibrant basil pesto sauce."
             },
             {
               "name": "Maple Glazed Carrots",
-              "price": 4.0,
+              "price": 4,
               "ingredients": "Carrots roasted and glazed with pure maple syrup for a sweet, caramelized finish."
             },
             {
               "name": "Yuca Fries",
-              "price": 4.0,
+              "price": 4,
               "ingredients": "Crispy yuca fries with a golden exterior and soft center, served with a zesty dipping sauce."
             }
           ]
@@ -468,7 +468,7 @@
           "items": [
             {
               "name": "Esquites",
-              "price": 6.0,
+              "price": 6,
               "ingredients": "Mexican street corn off the cob, sautéed with butter, lime, chili, and topped with mayo and cotija cheese."
             },
             {
@@ -518,17 +518,17 @@
           "items": [
             {
               "name": "Pasta Bar",
-              "price": 28.0,
+              "price": 28,
               "ingredients": "Fresh, customizable pasta dishes with a variety of pasta options, including penne, fettuccine, and cheese tortellini. Choose from sauces like marinara, Alfredo, or pesto, and top your dish with grilled chicken or seasoned beef. Add your choice of toppings, such as grated cheese, sautéed vegetables, and fresh herbs."
             },
             {
               "name": "Quesadilla Bar",
-              "price": 20.0,
+              "price": 20,
               "ingredients": "Enjoy a customizable quesadilla experience with your choice of fillings, including shredded chicken, seasoned beef, or sautéed vegetables. Each quesadilla is grilled to perfection and served with a variety of toppings such as shredded cheese, guacamole, sour cream, salsa, and jalapeños."
             },
             {
               "name": "Mashed Potato Bar",
-              "price": 15.0,
+              "price": 15,
               "ingredients": "Indulge in a creamy mashed potato bar where guests can customize their own bowl of fluffy mashed potatoes, made fresh and served with a variety of toppings. Choose from options like gravy, sour cream, shredded cheese, crispy bacon, sautéed onions, and chives. For added variety, we offer mashed sweet potatoes as an alternative."
             },
             {
@@ -538,7 +538,7 @@
             },
             {
               "name": "Nacho Bar",
-              "price": 26.0,
+              "price": 26,
               "ingredients": "Create your perfect nacho platter with a variety of crunchy tortilla chips topped with melted cheese, seasoned ground beef, or grilled chicken. Guests can customize their nachos with a range of delicious toppings, including guacamole, salsa, sour cream, jalapeños, and fresh cilantro. For added variety, we offer options like black beans, queso dip, and diced tomatoes. This interactive station ensures a fun and flavorful experience for everyone."
             },
             {
@@ -563,7 +563,7 @@
           "items": [
             {
               "name": "Caprese Skewers",
-              "price": 150.0,
+              "price": 150,
               "ingredients": "Fresh mozzarella balls, cherry tomatoes, basil, and balsamic glaze."
             },
             {
@@ -621,66 +621,186 @@
         {
           "name": "Cakes",
           "items": [
-            { "name": "Carrot Cake", "price": 5.0, "ingredients": "" },
-            { "name": "Tiramisu Cake", "price": 5.0, "ingredients": "" },
-            { "name": "Chocolate Overload Cake", "price": 5.0, "ingredients": "" },
-            { "name": "Old-Fashioned Cheesecake", "price": 5.0, "ingredients": "" },
-            { "name": "Chocolate Mousse Cake", "price": 5.0, "ingredients": "" },
-            { "name": "Raspberry Cheesecake", "price": 5.0, "ingredients": "" }
+            {
+              "name": "Carrot Cake",
+              "price": 5,
+              "ingredients": "Testing"
+            },
+            {
+              "name": "Tiramisu Cake",
+              "price": 5,
+              "ingredients": ""
+            },
+            {
+              "name": "Chocolate Overload Cake",
+              "price": 5,
+              "ingredients": ""
+            },
+            {
+              "name": "Old-Fashioned Cheesecake",
+              "price": 5,
+              "ingredients": ""
+            },
+            {
+              "name": "Chocolate Mousse Cake",
+              "price": 5,
+              "ingredients": ""
+            },
+            {
+              "name": "Raspberry Cheesecake",
+              "price": 5,
+              "ingredients": ""
+            }
           ]
         },
         {
           "name": "Cookies",
           "items": [
-            { "name": "Chocolate Chip", "price": 1.25, "ingredients": "" },
-            { "name": "Oatmeal Raisin", "price": 1.25, "ingredients": "" },
-            { "name": "White Chocolate Macadamia Nut", "price": 1.25, "ingredients": "" },
-            { "name": "Double Chocolate", "price": 1.25, "ingredients": "" },
-            { "name": "Raspberry Cheesecake", "price": 1.25, "ingredients": "" },
-            { "name": "Snickerdoodle", "price": 1.25, "ingredients": "" }
+            {
+              "name": "Chocolate Chip",
+              "price": 1.25,
+              "ingredients": ""
+            },
+            {
+              "name": "Oatmeal Raisin",
+              "price": 1.25,
+              "ingredients": ""
+            },
+            {
+              "name": "White Chocolate Macadamia Nut",
+              "price": 1.25,
+              "ingredients": ""
+            },
+            {
+              "name": "Double Chocolate",
+              "price": 1.25,
+              "ingredients": ""
+            },
+            {
+              "name": "Raspberry Cheesecake",
+              "price": 1.25,
+              "ingredients": ""
+            },
+            {
+              "name": "Snickerdoodle",
+              "price": 1.25,
+              "ingredients": ""
+            }
           ]
         },
         {
           "name": "Brownie",
           "items": [
-            { "name": "Chocolate", "price": 3.25, "ingredients": "" },
-            { "name": "Oreo", "price": 1.25, "ingredients": "" },
-            { "name": "Blondie", "price": 2.25, "ingredients": "" }
+            {
+              "name": "Chocolate",
+              "price": 3.25,
+              "ingredients": ""
+            },
+            {
+              "name": "Oreo",
+              "price": 1.25,
+              "ingredients": ""
+            },
+            {
+              "name": "Blondie",
+              "price": 2.25,
+              "ingredients": ""
+            }
           ]
         },
         {
           "name": "Tarts",
           "items": [
-            { "name": "Mixed Berry Compote", "price": 2.0, "ingredients": "" },
-            { "name": "Fig and Honey Mascarpone", "price": 2.0, "ingredients": "" },
-            { "name": "Salted Caramel Chocolate", "price": 2.0, "ingredients": "" },
-            { "name": "Almond Toffee", "price": 2.0, "ingredients": "" }
+            {
+              "name": "Mixed Berry Compote",
+              "price": 2,
+              "ingredients": ""
+            },
+            {
+              "name": "Fig and Honey Mascarpone",
+              "price": 2,
+              "ingredients": ""
+            },
+            {
+              "name": "Salted Caramel Chocolate",
+              "price": 2,
+              "ingredients": ""
+            },
+            {
+              "name": "Almond Toffee",
+              "price": 2,
+              "ingredients": ""
+            }
           ]
         },
         {
           "name": "Italian",
           "items": [
-            { "name": "Tiramisu", "price": 5.0, "ingredients": "" },
-            { "name": "Cannolis", "price": 5.0, "ingredients": "" },
-            { "name": "Italian Cheesecake", "price": 6.5, "ingredients": "" },
-            { "name": "Mixed Berry Crostata", "price": 4.5, "ingredients": "" }
+            {
+              "name": "Tiramisu",
+              "price": 5,
+              "ingredients": ""
+            },
+            {
+              "name": "Cannolis",
+              "price": 5,
+              "ingredients": ""
+            },
+            {
+              "name": "Italian Cheesecake",
+              "price": 6.5,
+              "ingredients": ""
+            },
+            {
+              "name": "Mixed Berry Crostata",
+              "price": 4.5,
+              "ingredients": ""
+            }
           ]
         },
         {
           "name": "Latin",
           "items": [
-            { "name": "Arroz Con Leche", "price": 4.0, "ingredients": "" },
-            { "name": "Churros", "price": 3.0, "ingredients": "" },
-            { "name": "Tres Leches", "price": 6.0, "ingredients": "" }
+            {
+              "name": "Arroz Con Leche",
+              "price": 4,
+              "ingredients": ""
+            },
+            {
+              "name": "Churros",
+              "price": 3,
+              "ingredients": ""
+            },
+            {
+              "name": "Tres Leches",
+              "price": 6,
+              "ingredients": ""
+            }
           ]
         },
         {
           "name": "Vegan and Gluten Free",
           "items": [
-            { "name": "Almond Flour Chocolate Cake", "price": 5.75, "ingredients": "" },
-            { "name": "Peanut Butter Oatmeal Cookies", "price": 2.75, "ingredients": "" },
-            { "name": "Fruit Skewer w/ Coconut Yogurt", "price": 3.8, "ingredients": "" },
-            { "name": "Coconut Date Bars", "price": 4.25, "ingredients": "" }
+            {
+              "name": "Almond Flour Chocolate Cake",
+              "price": 5.75,
+              "ingredients": ""
+            },
+            {
+              "name": "Peanut Butter Oatmeal Cookies",
+              "price": 2.75,
+              "ingredients": ""
+            },
+            {
+              "name": "Fruit Skewer w/ Coconut Yogurt",
+              "price": 3.8,
+              "ingredients": ""
+            },
+            {
+              "name": "Coconut Date Bars",
+              "price": 4.25,
+              "ingredients": ""
+            }
           ]
         }
       ]
