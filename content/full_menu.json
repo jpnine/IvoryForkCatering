@@ -1,0 +1,809 @@
+{
+  "menus": [
+    {
+      "title": "American Homestyle",
+      "categories": [
+        {
+          "name": "Entrees",
+          "items": [
+            {
+              "name": "Fried Chicken",
+              "price": 3.9,
+              "ingredients": "Crispy, golden-fried chicken seasoned with a Southern-style blend of spices."
+            },
+            {
+              "name": "Sirloin Tip Steak",
+              "price": 4.95,
+              "ingredients": "Tender, juicy sirloin tips grilled and served with a savory garlic-herb butter."
+            },
+            {
+              "name": "Glazed Ham",
+              "price": 3.75,
+              "ingredients": "Slow-baked ham coated in a sweet and tangy brown sugar glaze."
+            },
+            {
+              "name": "Herb Crusted Chicken Breast",
+              "price": 3.75,
+              "ingredients": "Juicy baked chicken breast encrusted with a fragrant blend of herbs and spices."
+            },
+            {
+              "name": "Roasted Turkey Breast with Gravy",
+              "price": 3.95,
+              "ingredients": "Tender slices of oven-roasted turkey breast served with rich, homestyle gravy."
+            }
+          ]
+        },
+        {
+          "name": "Sides",
+          "items": [
+            {
+              "name": "Scalloped Potatoes",
+              "price": 4.25,
+              "ingredients": ""
+            },
+            {
+              "name": "Mac and Cheese",
+              "price": 4.25,
+              "ingredients": "Creamy, baked macaroni smothered in a rich, velvety cheese sauce."
+            },
+            {
+              "name": "Garlic Roasted Redskins",
+              "price": 3.75,
+              "ingredients": "Garlic and rosemary roasted redskin potatoes."
+            },
+            {
+              "name": "Rice Pilaf",
+              "price": 3.25,
+              "ingredients": ""
+            },
+            {
+              "name": "Risotto",
+              "price": 4.5,
+              "ingredients": ""
+            },
+            {
+              "name": "Green Beans",
+              "price": 3.75,
+              "ingredients": "Fresh green beans sautéed with garlic and a touch of butter for a crisp, savory bite."
+            },
+            {
+              "name": "Glazed Carrots",
+              "price": 3.25,
+              "ingredients": "Tender carrots tossed in a buttery brown sugar glaze with a hint of cinnamon."
+            },
+            {
+              "name": "Roasted Broccoli",
+              "price": 2.95,
+              "ingredients": "Oven-roasted broccoli paired with Kalamata olives and capers for a Mediterranean twist."
+            },
+            {
+              "name": "Squash Medley",
+              "price": 3.5,
+              "ingredients": "A colorful blend of zucchini, yellow squash, and seasonal vegetables roasted to perfection."
+            },
+            {
+              "name": "Dinner Rolls with Butter",
+              "price": 2.35,
+              "ingredients": ""
+            }
+          ]
+        },
+        {
+          "name": "Salads",
+          "items": [
+            {
+              "name": "Caesar Salad",
+              "price": 4,
+              "ingredients": "Crisp romaine lettuce tossed with creamy Caesar dressing, parmesan cheese, and crunchy croutons."
+            },
+            {
+              "name": "Garden Salad",
+              "price": 3.5,
+              "ingredients": "A fresh mix of greens, tomatoes, cucumbers, and carrots served with your choice of dressing."
+            },
+            {
+              "name": "Coleslaw",
+              "price": 3.75,
+              "ingredients": "Shredded cabbage and carrots blended in a tangy, creamy house-made slaw dressing."
+            }
+          ]
+        },
+        {
+          "name": "Desserts",
+          "items": [
+            {
+              "name": "Brownie",
+              "price": 3.25,
+              "ingredients": ""
+            },
+            {
+              "name": "Cookie",
+              "price": 2,
+              "ingredients": ""
+            },
+            {
+              "name": "Cake",
+              "price": 4.25,
+              "ingredients": "Check full dessert menu for flavor options."
+            },
+            {
+              "name": "Pie",
+              "price": 4.25,
+              "ingredients": "Check full dessert menu for flavor options."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Italian",
+      "categories": [
+        {
+          "name": "Entrees",
+          "items": [
+            {
+              "name": "Chicken Parmesan",
+              "price": 6.5,
+              "ingredients": "Breaded chicken breast topped with marinara sauce and melted mozzarella."
+            },
+            {
+              "name": "Baked Ziti",
+              "price": 7.5,
+              "ingredients": "Ziti pasta baked with marinara sauce, ricotta, and melted mozzarella for a hearty classic."
+            },
+            {
+              "name": "Chicken Piccata",
+              "price": 6.8,
+              "ingredients": "Lightly sautéed chicken breast in a lemon-butter caper sauce."
+            },
+            {
+              "name": "Penne Alla Vodka",
+              "price": 4,
+              "ingredients": "Penne pasta tossed in a creamy tomato-vodka sauce with a touch of heat."
+            },
+            {
+              "name": "Shrimp Scampi",
+              "price": 5.5,
+              "ingredients": "Succulent shrimp sautéed in garlic, butter, and white wine, served over pasta."
+            },
+            {
+              "name": "Fettucine Alfredo",
+              "price": 6,
+              "ingredients": "Fettuccine noodles coated in a rich, buttery parmesan cream sauce."
+            },
+            {
+              "name": "Italian Sausage and Peppers",
+              "price": 9.5,
+              "ingredients": "Savory Italian sausage cooked with sweet bell peppers and onions in a zesty tomato sauce."
+            },
+            {
+              "name": "Spaghetti and Meatballs",
+              "price": 6,
+              "ingredients": "Classic spaghetti topped with savory house-made meatballs and marinara sauce."
+            },
+            {
+              "name": "Pork Marsala",
+              "price": 5,
+              "ingredients": "Tender pork medallions simmered in a rich Marsala wine and mushroom sauce."
+            },
+            {
+              "name": "Pasta Primavera",
+              "price": 7,
+              "ingredients": "Colorful seasonal vegetables sautéed and tossed with pasta in a light garlic and olive oil sauce."
+            }
+          ]
+        },
+        {
+          "name": "Sides",
+          "items": [
+            {
+              "name": "Garlic Bread",
+              "price": 2.5,
+              "ingredients": ""
+            },
+            {
+              "name": "Cheesy Breadsticks",
+              "price": 3,
+              "ingredients": ""
+            },
+            {
+              "name": "Bruschetta",
+              "price": 5,
+              "ingredients": ""
+            }
+          ]
+        },
+        {
+          "name": "Salads",
+          "items": [
+            {
+              "name": "Caprese Salad",
+              "price": 4.5,
+              "ingredients": "Fresh mozzarella, vine-ripened tomatoes, and basil drizzled with balsamic glaze and olive oil."
+            },
+            {
+              "name": "Antipasto Platter",
+              "price": 6.5,
+              "ingredients": "A savory assortment of cured meats, cheeses, marinated vegetables, and olives."
+            },
+            {
+              "name": "Caesar Salad",
+              "price": 4.5,
+              "ingredients": "Crisp romaine lettuce tossed with creamy Caesar dressing, parmesan cheese, and crunchy croutons."
+            }
+          ]
+        },
+        {
+          "name": "Desserts",
+          "items": [
+            {
+              "name": "Tiramisu",
+              "price": 5,
+              "ingredients": ""
+            },
+            {
+              "name": "Cannolis",
+              "price": 5,
+              "ingredients": ""
+            },
+            {
+              "name": "Italian Cheesecake",
+              "price": 6.5,
+              "ingredients": ""
+            },
+            {
+              "name": "Mixed Berry Crostata",
+              "price": 4.5,
+              "ingredients": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Latin",
+      "categories": [
+        {
+          "name": "Entrees",
+          "items": [
+            {
+              "name": "Chile Relleno",
+              "price": 9.5,
+              "ingredients": "Roasted poblano pepper stuffed with cheese, dipped in egg batter, and fried to golden perfection, served with ranchero sauce."
+            },
+            {
+              "name": "Birria",
+              "price": 12,
+              "ingredients": "Tender, slow-cooked beef in a rich, spiced consommé, perfect for tacos or dipping."
+            },
+            {
+              "name": "Carnitas",
+              "price": 10,
+              "ingredients": "Slow-braised pork, crisped to perfection and seasoned with traditional Mexican spices."
+            },
+            {
+              "name": "Chicken Tinga",
+              "price": 9,
+              "ingredients": "Shredded chicken simmered in a smoky chipotle-tomato sauce with onions."
+            },
+            {
+              "name": "Pollo Asado",
+              "price": 10,
+              "ingredients": "Grilled, citrus-marinated chicken bursting with bold, smoky flavor."
+            }
+          ]
+        },
+        {
+          "name": "Sides",
+          "items": [
+            {
+              "name": "Arroz Rojo",
+              "price": 3,
+              "ingredients": ""
+            },
+            {
+              "name": "Frijoles Negros",
+              "price": 3,
+              "ingredients": "Slow-simmered black beans seasoned with garlic, onion, and Latin spices."
+            },
+            {
+              "name": "Arroz Congri",
+              "price": 4,
+              "ingredients": ""
+            },
+            {
+              "name": "Cilantro Lime Rice",
+              "price": 3.25,
+              "ingredients": ""
+            },
+            {
+              "name": "Yellow Rice with Peppers",
+              "price": 5,
+              "ingredients": ""
+            },
+            {
+              "name": "Frijoles alla Charro",
+              "price": 3.5,
+              "ingredients": "Pinto beans cooked with bacon, chiles, and spices in a savory broth."
+            },
+            {
+              "name": "Yuca Con Mojo",
+              "price": 6,
+              "ingredients": "Boiled cassava root drizzled with a garlicky citrus mojo sauce."
+            },
+            {
+              "name": "Tostones",
+              "price": 4,
+              "ingredients": "Twice-fried green plantains, crispy on the outside and soft inside, served with garlic dipping sauce."
+            }
+          ]
+        },
+        {
+          "name": "Salads",
+          "items": [
+            {
+              "name": "Ensalata de Repollo",
+              "price": 3.5,
+              "ingredients": "Crisp cabbage slaw tossed in a tangy lime vinaigrette with carrots and cilantro."
+            },
+            {
+              "name": "Garden Salad",
+              "price": 5,
+              "ingredients": "A fresh mix of lettuce, tomatoes, cucumbers, and carrots, served with your choice of dressing."
+            }
+          ]
+        },
+        {
+          "name": "Desserts",
+          "items": [
+            {
+              "name": "Arroz Con Leche",
+              "price": 4,
+              "ingredients": ""
+            },
+            {
+              "name": "Churros",
+              "price": 3,
+              "ingredients": ""
+            },
+            {
+              "name": "Pineapple Upside Down Cake",
+              "price": 5,
+              "ingredients": ""
+            },
+            {
+              "name": "Tres Leches",
+              "price": 6,
+              "ingredients": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Vegetarian",
+      "categories": [
+        {
+          "name": "Entrees",
+          "items": [
+            {
+              "name": "Grilled Portobello Steak",
+              "price": 8,
+              "ingredients": "Meaty portobello mushrooms marinated and grilled to perfection, served as a hearty plant-based main."
+            },
+            {
+              "name": "Buffalo Cauliflower",
+              "price": 5,
+              "ingredients": "Crispy cauliflower florets tossed in spicy buffalo sauce, served with cooling ranch or blue cheese dip."
+            },
+            {
+              "name": "Polenta",
+              "price": 4,
+              "ingredients": "Polenta."
+            },
+            {
+              "name": "Stuffed Bell Peppers",
+              "price": 12,
+              "ingredients": "Colorful bell peppers filled with a savory blend of rice, vegetables, and herbs, baked until tender."
+            },
+            {
+              "name": "Quinoa and Veggie Paella",
+              "price": 12,
+              "ingredients": "A colorful medley of vegetables and quinoa simmered with saffron and spices for a vibrant, meatless twist."
+            }
+          ]
+        },
+        {
+          "name": "Starches",
+          "items": [
+            {
+              "name": "Garlic Roasted Potatoes",
+              "price": 3.95,
+              "ingredients": ""
+            },
+            {
+              "name": "Lentil Pilaf",
+              "price": 5.75,
+              "ingredients": ""
+            },
+            {
+              "name": "Herb Quinoa",
+              "price": 4.1,
+              "ingredients": ""
+            }
+          ]
+        },
+        {
+          "name": "Sides",
+          "items": [
+            {
+              "name": "Rosemary Roasted Brussel Sprouts",
+              "price": 4.5,
+              "ingredients": "Brussels sprouts roasted with olive oil and fresh rosemary until crispy and golden."
+            },
+            {
+              "name": "Grilled Asparagus",
+              "price": 4,
+              "ingredients": "Tender asparagus spears grilled and lightly seasoned with sea salt and lemon."
+            },
+            {
+              "name": "Zucchini Noodles with Pesto",
+              "price": 4,
+              "ingredients": "Fresh spiralized zucchini noodles tossed in a vibrant basil pesto sauce."
+            },
+            {
+              "name": "Maple Glazed Carrots",
+              "price": 4,
+              "ingredients": "Carrots roasted and glazed with pure maple syrup for a sweet, caramelized finish."
+            },
+            {
+              "name": "Yuca Fries",
+              "price": 4,
+              "ingredients": "Crispy yuca fries with a golden exterior and soft center, served with a zesty dipping sauce."
+            }
+          ]
+        },
+        {
+          "name": "Salads",
+          "items": [
+            {
+              "name": "Esquites",
+              "price": 6,
+              "ingredients": "Mexican street corn off the cob, sautéed with butter, lime, chili, and topped with mayo and cotija cheese."
+            },
+            {
+              "name": "Italian White Bean Salad",
+              "price": 2.5,
+              "ingredients": "Tender white beans tossed with cherry tomatoes, red onion, fresh herbs, and a zesty vinaigrette."
+            },
+            {
+              "name": "Cucumber-Dill Salad",
+              "price": 3.95,
+              "ingredients": "Crisp cucumbers and red onions in a refreshing dill and vinegar dressing."
+            }
+          ]
+        },
+        {
+          "name": "Desserts",
+          "items": [
+            {
+              "name": "Almond Flour Chocolate Cake",
+              "price": 5.75,
+              "ingredients": ""
+            },
+            {
+              "name": "Peanut Butter Oatmeal Cookie",
+              "price": 2.75,
+              "ingredients": ""
+            },
+            {
+              "name": "Fruit Skewers w/ Coconut Yogurt",
+              "price": 3.8,
+              "ingredients": ""
+            },
+            {
+              "name": "Coconut-Date Bars",
+              "price": 4.25,
+              "ingredients": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Live Stations",
+      "categories": [
+        {
+          "name": "Stations",
+          "items": [
+            {
+              "name": "Pasta Bar",
+              "price": 28,
+              "ingredients": "Fresh, customizable pasta dishes with a variety of pasta options, including penne, fettuccine, and cheese tortellini. Choose from sauces like marinara, Alfredo, or pesto, and top your dish with grilled chicken or seasoned beef. Add your choice of toppings, such as grated cheese, sautéed vegetables, and fresh herbs."
+            },
+            {
+              "name": "Quesadilla Bar",
+              "price": 20,
+              "ingredients": "Enjoy a customizable quesadilla experience with your choice of fillings, including shredded chicken, seasoned beef, or sautéed vegetables. Each quesadilla is grilled to perfection and served with a variety of toppings such as shredded cheese, guacamole, sour cream, salsa, and jalapeños."
+            },
+            {
+              "name": "Mashed Potato Bar",
+              "price": 15,
+              "ingredients": "Indulge in a creamy mashed potato bar where guests can customize their own bowl of fluffy mashed potatoes, made fresh and served with a variety of toppings. Choose from options like gravy, sour cream, shredded cheese, crispy bacon, sautéed onions, and chives. For added variety, we offer mashed sweet potatoes as an alternative."
+            },
+            {
+              "name": "Taco Bar",
+              "price": 18.99,
+              "ingredients": "Let your guests build their own tacos with a selection of fresh fillings, including seasoned ground beef, grilled chicken, and sautéed vegetables. Choose from soft flour tortillas or crunchy corn shells, and top them with a variety of toppings such as shredded lettuce, diced tomatoes, cheese, sour cream, guacamole, salsa, and jalapeños. This customizable station also includes sides like Mexican rice, refried beans, and chips for a complete taco experience."
+            },
+            {
+              "name": "Nacho Bar",
+              "price": 26,
+              "ingredients": "Create your perfect nacho platter with a variety of crunchy tortilla chips topped with melted cheese, seasoned ground beef, or grilled chicken. Guests can customize their nachos with a range of delicious toppings, including guacamole, salsa, sour cream, jalapeños, and fresh cilantro. For added variety, we offer options like black beans, queso dip, and diced tomatoes. This interactive station ensures a fun and flavorful experience for everyone."
+            },
+            {
+              "name": "Chaat Station",
+              "price": 16.99,
+              "ingredients": "Bring the vibrant flavors of Indian street food to your event with a customizable Chaat Station. Guests can build their own chaat with crispy puris, crunchy sev, and a variety of flavorful toppings like spiced potatoes, chickpeas, yogurt, tamarind chutney, mint chutney, and a sprinkle of tangy spices. Options like bhel puri, pani puri, and dahi puri are available, offering a fresh, flavorful, and interactive experience for everyone."
+            },
+            {
+              "name": "Sandwich Station",
+              "price": 14.99,
+              "ingredients": "Create your own delicious sandwich at our customizable Sandwich Station. Choose from a variety of fresh breads, including rolls, baguettes, and wraps, and fill them with your choice of proteins like roasted turkey, ham, grilled chicken, or vegetarian options like hummus and roasted vegetables. Top it off with a selection of cheeses, lettuce, tomatoes, pickles, and condiments like mustard, mayo, and pesto. Sides like chips, pasta salad, and pickles are also available to complement your sandwich creation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Finger Foods (Price per 50 people)",
+      "categories": [
+        {
+          "name": "Stations",
+          "items": [
+            {
+              "name": "Caprese Skewers",
+              "price": 150,
+              "ingredients": "Fresh mozzarella balls, cherry tomatoes, basil, and balsamic glaze."
+            },
+            {
+              "name": "Shrimp Cocktail Shooters",
+              "price": 237.24,
+              "ingredients": "Chilled shrimp served with classic cocktail sauce in individual shooters."
+            },
+            {
+              "name": "Deviled Eggs",
+              "price": 71.7,
+              "ingredients": "Traditional deviled eggs with a creamy filling and a sprinkle of paprika."
+            },
+            {
+              "name": "Charcuterie Cups",
+              "price": 282.21,
+              "ingredients": "Individual cups filled with salami, cheese cubes, crackers, and nuts."
+            },
+            {
+              "name": "Fruit Skewers",
+              "price": 94.64,
+              "ingredients": "Fresh melon, berries, and grapes served on skewers for easy enjoyment."
+            },
+            {
+              "name": "Mini Meatballs",
+              "price": 140.48,
+              "ingredients": "Juicy meatballs served with marinara sauce."
+            },
+            {
+              "name": "Chicken Satay with Peanut Sauce",
+              "price": 189.45,
+              "ingredients": "Grilled chicken skewers paired with a flavorful peanut dipping sauce."
+            },
+            {
+              "name": "Mini Quiches",
+              "price": 189.45,
+              "ingredients": "Assorted mini quiches with fillings like spinach, bacon, and cheese."
+            },
+            {
+              "name": "Stuffed Mushrooms",
+              "price": 140.48,
+              "ingredients": "Button mushrooms stuffed with a savory mixture of breadcrumbs, cheese, and herbs."
+            },
+            {
+              "name": "Spanakopita Triangles",
+              "price": 235.45,
+              "ingredients": "Golden phyllo triangles filled with spinach and feta cheese."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Desserts",
+      "categories": [
+        {
+          "name": "Cakes",
+          "items": [
+            {
+              "name": "Carrot Cake",
+              "price": 5,
+              "ingredients": ""
+            },
+            {
+              "name": "Tiramisu Cake",
+              "price": 5,
+              "ingredients": ""
+            },
+            {
+              "name": "Chocolate Overload Cake",
+              "price": 5,
+              "ingredients": ""
+            },
+            {
+              "name": "Old-Fashioned Cheesecake",
+              "price": 5,
+              "ingredients": ""
+            },
+            {
+              "name": "Chocolate Mousse Cake",
+              "price": 5,
+              "ingredients": ""
+            },
+            {
+              "name": "Raspberry Cheesecake",
+              "price": 5,
+              "ingredients": ""
+            }
+          ]
+        },
+        {
+          "name": "Cookies",
+          "items": [
+            {
+              "name": "Chocolate Chip",
+              "price": 1.25,
+              "ingredients": ""
+            },
+            {
+              "name": "Oatmeal Raisin",
+              "price": 1.25,
+              "ingredients": ""
+            },
+            {
+              "name": "White Chocolate Macadamia Nut",
+              "price": 1.25,
+              "ingredients": ""
+            },
+            {
+              "name": "Double Chocolate",
+              "price": 1.25,
+              "ingredients": ""
+            },
+            {
+              "name": "Raspberry Cheesecake",
+              "price": 1.25,
+              "ingredients": ""
+            },
+            {
+              "name": "Snickerdoodle",
+              "price": 1.25,
+              "ingredients": ""
+            }
+          ]
+        },
+        {
+          "name": "Brownie",
+          "items": [
+            {
+              "name": "Chocolate",
+              "price": 3.25,
+              "ingredients": ""
+            },
+            {
+              "name": "Oreo",
+              "price": 1.25,
+              "ingredients": ""
+            },
+            {
+              "name": "Blondie",
+              "price": 2.25,
+              "ingredients": ""
+            }
+          ]
+        },
+        {
+          "name": "Tarts",
+          "items": [
+            {
+              "name": "Mixed Berry Compote",
+              "price": 2,
+              "ingredients": ""
+            },
+            {
+              "name": "Fig and Honey Mascarpone",
+              "price": 2,
+              "ingredients": ""
+            },
+            {
+              "name": "Salted Caramel Chocolate",
+              "price": 2,
+              "ingredients": ""
+            },
+            {
+              "name": "Almond Toffee",
+              "price": 2,
+              "ingredients": ""
+            }
+          ]
+        },
+        {
+          "name": "Italian",
+          "items": [
+            {
+              "name": "Tiramisu",
+              "price": 5,
+              "ingredients": ""
+            },
+            {
+              "name": "Cannolis",
+              "price": 5,
+              "ingredients": ""
+            },
+            {
+              "name": "Italian Cheesecake",
+              "price": 6.5,
+              "ingredients": ""
+            },
+            {
+              "name": "Mixed Berry Crostata",
+              "price": 4.5,
+              "ingredients": ""
+            }
+          ]
+        },
+        {
+          "name": "Latin",
+          "items": [
+            {
+              "name": "Arroz Con Leche",
+              "price": 4,
+              "ingredients": ""
+            },
+            {
+              "name": "Churros",
+              "price": 3,
+              "ingredients": ""
+            },
+            {
+              "name": "Tres Leches",
+              "price": 6,
+              "ingredients": ""
+            }
+          ]
+        },
+        {
+          "name": "Vegan and Gluten Free",
+          "items": [
+            {
+              "name": "Almond Flour Chocolate Cake",
+              "price": 5.75,
+              "ingredients": ""
+            },
+            {
+              "name": "Peanut Butter Oatmeal Cookies",
+              "price": 2.75,
+              "ingredients": ""
+            },
+            {
+              "name": "Fruit Skewer w/ Coconut Yogurt",
+              "price": 3.8,
+              "ingredients": ""
+            },
+            {
+              "name": "Coconut Date Bars",
+              "price": 4.25,
+              "ingredients": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
